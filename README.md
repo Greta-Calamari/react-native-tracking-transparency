@@ -13,13 +13,7 @@
 
 ## Installation
 
-1. Install package
-    ```sh
-    npm install react-native-tracking-transparency
-    cd ios
-    pod install
-    ```
-
+1. yarn add git+https://github.com/Greta-Calamari/react-native-tracking-transparency.GIT
 2. Add `NSUserTrackingUsageDescription` to your `Info.plist`
 
 ## Usage
