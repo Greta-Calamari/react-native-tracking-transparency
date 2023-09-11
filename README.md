@@ -13,7 +13,7 @@
 
 ## Installation
 
-1. yarn add git+https://github.com/Greta-Calamari/react-native-tracking-transparency.GIT
+1. yarn add https://github.com/Greta-Calamari/react-native-tracking-transparency
 2. Add `NSUserTrackingUsageDescription` to your `Info.plist`
 
 ## Usage
